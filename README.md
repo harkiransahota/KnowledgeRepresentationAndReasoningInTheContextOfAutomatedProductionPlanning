@@ -41,6 +41,6 @@ Adam.Klodowski@lut.fi
 ### Citation
 If you use these ASP rules in your research, please cite:
 ```
-Sahota, Harkiran, & Klodowski, Adam. (in press). Knowledge Representation And Reasoning In The Context Of Automated Production Planning. *Journal of Intelligent Manufacturing*. Advance online publication.  
+Sahota, Harkiran & Klodowski, Adam. (in press). Knowledge Representation And Reasoning In The Context Of Automated Production Planning. *Journal of Intelligent Manufacturing*. Advance online publication.  
 ```
 
